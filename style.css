@@ -1,0 +1,14 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+h1{
+    color: brown;
+    text-align: center;
+    border: 10px solid rgb(29, 1, 122);
+}
+form{
+    text-align: center;
+}
+body{
+    background-color: darkkhaki;
+}
